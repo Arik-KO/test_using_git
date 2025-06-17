@@ -34,3 +34,4 @@ plt.plot(losses.accuracy)
 plt.plot(losses.val_accuracy)
 
 model.evaluate(x_test, y_test)
+# I am just adding a comment here in the master branch
